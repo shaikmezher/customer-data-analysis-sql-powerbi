@@ -61,7 +61,7 @@ LinkedIn: https://www.linkedin.com/in/shaik-mezher-57b287242/---
 2. Review SQL queries in the `sql/` folder for analysis logic.
 3. Open Power BI dashboards to explore interactive visuals.
 4. Refer to screenshots for quick dashboard preview.
-5. ---
+   
 
 ## 🛠 Tools & Technologies Used
 - SQL (Data aggregation & analysis)
