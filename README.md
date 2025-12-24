@@ -22,4 +22,25 @@ revenue patterns, product category performance, and payment method usage.
 ## Author
 Shaik Mezher Basha  
 Email: shaikmezher@gmail.com  
-LinkedIn: https://www.linkedin.com/in/shaik-mezher-57b287242/
+LinkedIn: https://www.linkedin.com/in/shaik-mezher-57b287242/---
+
+## 📊 Power BI Dashboards Preview
+
+### 🔹 Overview Dashboard
+![Overview Dashboard](screenshots/overview.png)
+
+### 🔹 Customer Demographics
+![Customer Demographics](screenshots/CUSTOMER_DEMOGRAPHICS.png)
+
+### 🔹 Age Analysis
+![Age Analysis](screenshots/age_analysis.png)
+
+### 🔹 Gender & Payment Method Analysis
+![Gender Payment](screenshots/gender_payment.png)
+
+### 🔹 Category Performance
+![Category Performance](screenshots/category_performance.png)
+
+### 🔹 Sales Dashboard
+![Sales Dashboard](screenshots/customer_sales_DASHBOARD.png)
+
