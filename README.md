@@ -43,6 +43,7 @@ LinkedIn: https://www.linkedin.com/in/shaik-mezher-57b287242/---
 
 ### 🔹 Sales Dashboard
 ![Sales Dashboard](screenshots/customer_sales_DASHBOARD.png)
+
 ---
 
 ## 🔍 Key Insights
@@ -52,5 +53,14 @@ LinkedIn: https://www.linkedin.com/in/shaik-mezher-57b287242/---
 - Female customers show slightly higher purchase frequency compared to males.
 - Credit Card is the most preferred payment method, followed by Cash and Debit Card.
 - Electronics and Fashion categories generate the highest overall revenue.
+- ---
+
+## ▶️ How to Use This Project
+
+1. Download the dataset from the `data/` folder.
+2. Review SQL queries in the `sql/` folder for analysis logic.
+3. Open Power BI dashboards to explore interactive visuals.
+4. Refer to screenshots for quick dashboard preview.
+
 
 
