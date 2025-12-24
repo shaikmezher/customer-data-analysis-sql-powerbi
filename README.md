@@ -43,4 +43,14 @@ LinkedIn: https://www.linkedin.com/in/shaik-mezher-57b287242/---
 
 ### 🔹 Sales Dashboard
 ![Sales Dashboard](screenshots/customer_sales_DASHBOARD.png)
+---
+
+## 🔍 Key Insights
+
+- Mall of Istanbul and Kanyon generate the highest revenue among all shopping malls.
+- Customers in the 20–40 age group contribute the majority of transactions and revenue.
+- Female customers show slightly higher purchase frequency compared to males.
+- Credit Card is the most preferred payment method, followed by Cash and Debit Card.
+- Electronics and Fashion categories generate the highest overall revenue.
+
 
