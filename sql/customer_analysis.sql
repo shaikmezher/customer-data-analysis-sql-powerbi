@@ -23,7 +23,7 @@ GROUP BY gender;
 
 -- 4. Shopping distribution by age group
 SELECT
-    age_group,
+age_group,
     COUNT(*) AS total_purchases
 FROM customer_data
 GROUP BY age_group;
